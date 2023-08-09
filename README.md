@@ -1,1 +1,2 @@
 # RLEProgram
+An implementation of a Run-Length Encoding (RLE) image encoder in Java. The program compresses and decompresses image data based on RLE algorithm. It allows the user to load image data from a file, enter image data as a string, or load a test image data. The user can also display the loaded image, and see its RLE string, Hex RLE data and Hex flat data representations. The program is capable of converting between hexadecimal and byte array representations, as well as encoding and decoding the RLE data.
